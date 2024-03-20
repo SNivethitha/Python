@@ -2,6 +2,7 @@
 Using Machine Learning
 
 **Getting text from Images**
+
 This project helps to extract text from images using OCR.
 
 OCR stands for Optical Character Recognition.
